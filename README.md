@@ -1,12 +1,12 @@
 # sistemfashionecommerce
 1. Usecase Diagram
 
-https://1drv.ms/f/s!AtJs3IIC93hLqw44Yf5cnQhpWQL9?e=raoLqO
+![image](https://github.com/tiaraputriiiiii/sistemfashionecommerce/assets/115775237/970deb6c-c909-4766-af75-b59b342f5548)
 
 2. Activity Diagram
 
-https://1drv.ms/b/s!AtJs3IIC93hLqwf-7UCA_pNZhsIk?e=6VkYwX
+![image](https://github.com/tiaraputriiiiii/sistemfashionecommerce/assets/115775237/eb9d01c6-bf06-4b6d-a057-d605b8ee1c83)
 
 3. Squence Diagram
 
-https://1drv.ms/b/s!AtJs3IIC93hLqwlgi-W23GVvGSpF?e=WhXrs4
+![image](https://github.com/tiaraputriiiiii/sistemfashionecommerce/assets/115775237/2cae77f5-7028-4ff9-bab0-137214732681)
