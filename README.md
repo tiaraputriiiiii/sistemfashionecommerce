@@ -3,7 +3,7 @@
 # Sistem Fashion Ecommerce
 1. Usecase Diagram
 
-![image](https://github.com/tiaraputriiiiii/sistemfashionecommerce/assets/115775237/970deb6c-c909-4766-af75-b59b342f5548)
+![image](https://github.com/tiaraputriiiiii/sistemfashionecommerce/assets/115775237/02422b6b-11f6-4660-abb5-029719e3a731)
 
 2. Activity Diagram
 
